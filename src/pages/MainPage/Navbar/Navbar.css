@@ -1,0 +1,18 @@
+.nav-link {
+  transition: 0.4s;
+}
+.nav-link svg {
+  transition: 0.4s;
+}
+.nav-link:hover {
+  color: #111;
+}
+.nav-link:hover svg {
+  fill: #111;
+}
+.nav-link.active {
+  color: #111;
+}
+.nav-link.active svg {
+  fill: #111;
+}
